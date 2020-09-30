@@ -1,3 +1,11 @@
-# gitlab_stephane
+# git practicing officiual README file
 
-gitlab_stephane
+this project is basicaly put in place to prmit us practicing our already seen lessons concerning git
+
+# Developers
+
+- Enzo GELIN
+
+- Florian PAUMIER
+
+- Sabrina SI HADJ MOHAND
